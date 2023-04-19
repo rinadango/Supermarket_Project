@@ -1,0 +1,6 @@
+Bread,14,1.05
+Milk,7,0.95
+Cheese,13,2.52
+Ham,10,1.5
+Salmon,6,10.21
+Chicken,19,4.17
