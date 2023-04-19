@@ -41,3 +41,4 @@ build/
 src/main/java/com/example/javafx_supermarket_project/mainTest.java
 src/main/java/com/example/javafx_supermarket_project/HelloApplication.java
 src/main/resources/com/example/javafx_supermarket_project/hello-view.fxml
+src/main/java/com/example/javafx_supermarket_project/test
